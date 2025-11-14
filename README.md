@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Leisha Banner" width="100%" />
+  <img src="banner.jpg" alt="Leisha Banner" width="100%" />
 </p>
 
 # Hello there 👋, I’m Leisha Figuerres  
