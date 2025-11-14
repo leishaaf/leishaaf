@@ -1,4 +1,4 @@
-<div align="center">>
+<div align="center">
 <h1>Hello there 👋, I’m Leisha Figuerres</h1>
 <h2>Software Engineer · USF Computer Science · First-Generation Student  </h2>
 </div>
