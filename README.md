@@ -14,7 +14,7 @@ I’m passionate about creating reliable software, understanding how things work
 ### 🛠️ Technologies & Tools
 
 #### **Languages**
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" height="40"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="40"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="40"/>
