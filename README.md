@@ -1,6 +1,6 @@
-<div>
-<h1 align="center">Hello there 👋, I’m Leisha Figuerres</h1>
-<h2 align="center">Software Engineer · USF Computer Science · First-Generation Student  </h2>
+<div align="center">>
+<h1>Hello there 👋, I’m Leisha Figuerres</h1>
+<h2>Software Engineer · USF Computer Science · First-Generation Student  </h2>
 </div>
 
 I'm a **Computer Science major at the University of San Francisco** who loves coding, problem-solving, and building projects from the ground up 💻✨ I focus on backend engineering, full-stack development, and systems that make life simpler for real people.
