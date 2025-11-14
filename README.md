@@ -1,7 +1,7 @@
 # Hello there 👋, I’m Leisha Figuerres  
 ### Software Engineer · USF Computer Science · First-Generation Student  
 
-I'm a **Computer Science major at the University of San Francisco** who loves coding, problem-solving, and building projects from the ground up. 💻✨ I focus on backend engineering, full-stack development, and systems that make life simpler for real people.
+I'm a **Computer Science major at the University of San Francisco** who loves coding, problem-solving, and building projects from the ground up 💻✨. I focus on backend engineering, full-stack development, and systems that make life simpler for real people.
 
 #### **Languages**
 <p align="left">
