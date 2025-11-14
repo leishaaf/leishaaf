@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="banner.jpg" alt="Leisha Banner" width="100%" />
-</p>
-
 # Hello there 👋, I’m Leisha Figuerres  
 ### Software Engineer · USF Computer Science · First-Generation Student  
 
