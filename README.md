@@ -5,9 +5,7 @@
 # Hello there 👋, I’m Leisha Figuerres  
 ### Software Engineer · USF Computer Science · First-Generation Student  
 
-I grew up on the small island of **Lāna‘i, Hawai‘i** 🌺. I'm a **Computer Science major at the University of San Francisco** who loves coding, problem-solving, and building projects from the ground up. 💻✨ I focus on backend engineering, full-stack development, and systems that make life simpler for real people.
-
-I’m passionate about creating reliable software, understanding how things work under the hood, and solving problems with clarity and intention.
+I'm a **Computer Science major at the University of San Francisco** who loves coding, problem-solving, and building projects from the ground up. 💻✨ I focus on backend engineering, full-stack development, and systems that make life simpler for real people.
 
 ---
 
@@ -46,9 +44,7 @@ I’m passionate about creating reliable software, understanding how things work
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="40"/>
 </p>
 
----
-
-## 📫 Connect with Me
+#### 📫 Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/leisha-figuerres-862096347/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28"/>
