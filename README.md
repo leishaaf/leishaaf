@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner3.png" alt="Leisha Banner" width="100%" />
+  <img src="goodbanner.png" alt="Leisha Banner" width="100%" />
 </p>
 
 I'm a **Computer Science major at the University of San Francisco** who loves coding, problem-solving, and building projects from the ground up 💻✨ I focus on backend engineering, full-stack development, and systems that make life simpler for real people.
