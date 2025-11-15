@@ -11,7 +11,6 @@ I'm a **Computer Science major at the University of San Francisco** who loves co
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="40"/>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" height="40"/>
   <img src="https://img.shields.io/badge/C-0078D7?style=for-the-badge&logo=c&logoColor=white" height="40"/>
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=leishaaf&theme=synthwave&show_icons=true&hide_border=true&layout=compact)
 </p>
 
 #### **Frontend**
@@ -47,4 +46,4 @@ I'm a **Computer Science major at the University of San Francisco** who loves co
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="28"/>
   </a>
 </p>
-
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=leishaaf&theme=synthwave&show_icons=true&hide_border=true&layout=compact)
