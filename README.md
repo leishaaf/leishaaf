@@ -46,4 +46,3 @@ I'm a **Computer Science major at the University of San Francisco** who loves co
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="28"/>
   </a>
 </p>
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=leishaaf&theme=synthwave&show_icons=true&hide_border=true&layout=compact)
