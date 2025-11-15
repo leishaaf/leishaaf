@@ -4,33 +4,14 @@
 
 I'm a **Computer Science major at the University of San Francisco** who loves coding, problem-solving, and building projects from the ground up 💻✨ I focus on backend engineering, full-stack development, and systems that make life simpler for real people.
 
-### **Languages & Stats**
-
-<table>
-  <tr>
-    <!-- LEFT: Languages Badges -->
-    <td width="55%" valign="top">
-
-      <p align="left">
-        <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" height="40"/>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="40"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="40"/>
-        <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" height="40"/>
-        <img src="https://img.shields.io/badge/C-0078D7?style=for-the-badge&logo=c&logoColor=white" height="40"/>
-      </p>
-
-    </td>
-
-    <!-- RIGHT: GitHub Top Languages -->
-    <td width="45%" valign="top">
-
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leishaaf&theme=synthwave&show_icons=true&hide_border=true&layout=compact" />
-
-    </td>
-  </tr>
-</table>
-
-
+#### **Languages**
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="40"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/C-0078D7?style=for-the-badge&logo=c&logoColor=white" height="40"/>
+</p>
 
 #### **Frontend**
 <p align="left">
