@@ -14,7 +14,6 @@ Hello👋! I'm a **Computer Science major** at the **University of San Francisco
   <img src="https://img.shields.io/badge/RISC--V_Assembly-283272?style=for-the-badge&logo=riscv&logoColor=white" height="40"/>
 </p>
 
-
 #### **Frontend**
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="40"/>
@@ -43,16 +42,15 @@ Hello👋! I'm a **Computer Science major** at the **University of San Francisco
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" height="40"/>
 </p>
 
-#### **AI/Data**
-<p align="left">
-  <img src="https://img.shields.io/badge/RAG-6E56CF?style=for-the-badge&logoColor=white" height="40"/>
-</p>
-
-
 #### **Tools**
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="40"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="40"/>
+</p>
+
+#### **AI/Data**
+<p align="left">
+  <img src="https://img.shields.io/badge/RAG-6E56CF?style=for-the-badge&logoColor=white" height="40"/>
 </p>
 
 #### 📫 Connect with Me
