@@ -20,8 +20,8 @@ Hello👋! I'm a **Computer Science major** at the **University of San Francisco
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="40"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="40"/>
   <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="40"/>
+  <img src="https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" height="40"/>
 </p>
-
 
 #### **Backend **
 <p align="left">
@@ -33,7 +33,7 @@ Hello👋! I'm a **Computer Science major** at the **University of San Francisco
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" height="40"/>
 </p>
 
-#### Infra & DevOps**
+#### **Infra & DevOps**
 <p align="left">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="40"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" height="40"/>
@@ -41,6 +41,11 @@ Hello👋! I'm a **Computer Science major** at the **University of San Francisco
   <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" height="40"/>
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" height="40"/>
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" height="40"/>
+</p>
+
+#### **AI/Data**
+<p align="left">
+  <img src="https://img.shields.io/badge/RAG-6E56CF?style=for-the-badge&logoColor=white" height="40"/>
 </p>
 
 
