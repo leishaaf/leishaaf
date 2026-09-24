@@ -23,7 +23,7 @@ Hello👋! I'm a **Computer Science major** at the **University of San Francisco
   <img src="https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" height="40"/>
 </p>
 
-#### **Backend **
+#### **Backend**
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" height="40"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" height="40"/>
